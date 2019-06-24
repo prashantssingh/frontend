@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          This is written in React and orchestrated using Docker.
         </a>
       </header>
     </div>
