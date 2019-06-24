@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple project to explore App orchestration using Docker in different environment. It is bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
